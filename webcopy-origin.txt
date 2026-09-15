@@ -1,0 +1,508 @@
+Uri: https://ads-library.globo.com/library/lib-pub-relay/g1/lib-pub-relay-latest.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\library\lib-pub-relay\g1\lib-pub-relay-latest.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-bind-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-bind-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-carousel-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-carousel-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-fit-text-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-fit-text-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-lightbox-gallery-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-social-share-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-social-share-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-timeago-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-timeago-0.1.js
+Content Type: text/javascript
+
+Uri: https://cdn.ampproject.org/v0/amp-video-0.1.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v0\amp-video-0.1.js
+Content Type: text/javascript
+
+Uri: https://g1.globo.com/economia/noticia/2026/07/28/governo-prorroga-desenrola-ate-31-de-agosto.ghtml
+File Name: C:\Downloaded Web Sites\g1.globo.com\economia\noticia\2026\07\28\governo-prorroga-desenrola-ate-31-de-agosto.ghtml.html
+Content Type: text/html
+
+Uri: https://horizon-schemas.globo.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index-1.htm
+Content Type: application/json
+
+Uri: https://novabarra.globo.com/webcomponent/index-1.4.4.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\webcomponent\index-1.4.4.js
+Content Type: text/javascript
+
+Uri: https://s.glbimg.com/bs/delivery/show/1dd941-fb4814fb87866a9cc7e3edce9fdf276f.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\bs\delivery\show\1dd941-fb4814fb87866a9cc7e3edce9fdf276f.js
+Content Type: application/javascript
+
+Uri: https://s01.video.glbimg.com/x240/14819796.jpg
+File Name: C:\Downloaded Web Sites\g1.globo.com\x240\14819796_x240.jpg
+Content Type: image/jpeg
+
+Uri: https://s2-g1.glbimg.com/7_CSJ0a2BppGqptPkB7fE1Hacok=/128x128/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\7_CSJ0a2BppGqptPkB7fE1Hacok=\128x128\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/aFlLEuzGSYw2KtjvARZnCsFtgnk=/114x114/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\aFlLEuzGSYw2KtjvARZnCsFtgnk=\114x114\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/ANFXvAeR8V-2tbOMMP9tc2qFqJA=/192x192/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\ANFXvAeR8V-2tbOMMP9tc2qFqJA=\192x192\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/GpmOCEG_6A1NUKWKtbzFpijsyR0=/57x57/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\GpmOCEG_6A1NUKWKtbzFpijsyR0=\57x57\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/IB6vzVgmyVRnvfFMUvmq-ox3fYA=/0x0:5760x3840/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/U/Y/jB4AF9QjSVcFM46UBkZA/fta20240520073-1-.jpg
+File Name: C:\Downloaded Web Sites\g1.globo.com\IB6vzVgmyVRnvfFMUvmq-ox3fYA=\0x05760x3840\984x0\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2024\U\Y\jB4AF9QjSVcFM46UBkZA\fta20240520073-1-.jpg
+Content Type: image/jpeg
+
+Uri: https://s2-g1.glbimg.com/LsuKXSXhHyq6vHO3DX_fXzijkCg=/196x196/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\LsuKXSXhHyq6vHO3DX_fXzijkCg=\196x196\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/ntE_GO6uMpnPlZ2uD5ueQavJQNE=/72x72/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\ntE_GO6uMpnPlZ2uD5ueQavJQNE=\72x72\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/S1o7u7ulLX54NM6X_pRUSid8yXg=/180x180/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\S1o7u7ulLX54NM6X_pRUSid8yXg=\180x180\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/SU2Z6rs9rolyarVbXBSjaN6J0Jw=/167x167/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\SU2Z6rs9rolyarVbXBSjaN6J0Jw=\167x167\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/szHLoTRvs6YWm9NNieGM7KU2eEE=/152x152/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\szHLoTRvs6YWm9NNieGM7KU2eEE=\152x152\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2-g1.glbimg.com/t2_E-_cSErv4fsbUVhwwEN0YMX0=/32x32/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/H/w/YbA657S3aYVfC0P9wboQ/g1-favicon.png
+File Name: C:\Downloaded Web Sites\g1.globo.com\t2_E-_cSErv4fsbUVhwwEN0YMX0=\32x32\smart\filtersstrip_icc()\i.s3.glbimg.com\v1\AUTH_59edd422c0c84a879bd37670ae4f538a\internal_photos\bs\2021\H\w\YbA657S3aYVfC0P9wboQ\g1-favicon.png
+Content Type: image/png
+
+Uri: https://s2.glbimg.com/
+File Name: C:\Downloaded Web Sites\g1.globo.com\index.htm
+Content Type: text/plain
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/bold.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/bold.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\bold.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/bold.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/light.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\light.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/light.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\light.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/light.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\light.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/regular.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/regular.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\regular.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/regular.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/semibold.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\semibold.ttf
+Content Type: application/json
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/semibold.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\semibold.woff
+Content Type: application/json
+
+Uri: https://s3.glbimg.com/cdn/fonts/opensans/semibold.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\opensans\semibold.woff2
+Content Type: application/font-woff2
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/bold.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/bold.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\bold.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/bold.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\bold.woff2
+Content Type: application/font-woff2
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/light.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\light.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/light.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\light.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/light.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\light.woff2
+Content Type: application/font-woff2
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/regular.ttf
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/regular.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\regular.woff
+Content Type: application/font-woff
+
+Uri: https://s3.glbimg.com/cdn/fonts/proximanova/regular.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\fonts\proximanova\regular.woff2
+Content Type: application/font-woff2
+
+Uri: https://s3.glbimg.com/cdn/icons/quote/quote-2023.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\quote\quote-2023.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/fb/v2/fb.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\fb\v2\fb.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/fb/v2/fb_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\fb\v2\fb_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/linkedin/v2/linkedin.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\linkedin\v2\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/linkedin/v2/linkedin_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\linkedin\v2\linkedin_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/pinterest/v2/pinterest.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\pinterest\v2\pinterest.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/pinterest/v2/pinterest_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\pinterest\v2\pinterest_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/system/v2/system.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\system\v2\system.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/system/v2/system_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\system\v2\system_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/telegram/v2/telegram.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\telegram\v2\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/telegram/v2/telegram_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\telegram\v2\telegram_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/twitter/v2/twitter.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\twitter\v2\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/twitter/v2/twitter_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\twitter\v2\twitter_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/whatsapp/v2/whatsapp.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\whatsapp\v2\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/icons/sharebar/whatsapp/v2/whatsapp_inv.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\icons\sharebar\whatsapp\v2\whatsapp_inv.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/cdn/libs/clappr-plugins/login-screen/1.2.1/player-plugin-login-screen.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\libs\clappr-plugins\login-screen\1.2.1\player-plugin-login-screen.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/cdn/libs/jquery/1.8.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\cdn\libs\jquery\1.8.3\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_05f06ca986b54d6e9c5df94927ccf7fc/libs/clappr-plugins/video-recommendation/v2.4.0-g1/video-recommendation-plugin.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_05f06ca986b54d6e9c5df94927ccf7fc\libs\clappr-plugins\video-recommendation\v2.4.0-g1\video-recommendation-plugin.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_89c6d9f49eec4e768bc6ccddcb31a34b/lgpd-lib/lgpd-lib.min.css
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_89c6d9f49eec4e768bc6ccddcb31a34b\lgpd-lib\lgpd-lib.min.css
+Content Type: text/css
+
+Uri: https://s3.glbimg.com/v1/AUTH_89c6d9f49eec4e768bc6ccddcb31a34b/lgpd-lib/lgpd-lib.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_89c6d9f49eec4e768bc6ccddcb31a34b\lgpd-lib\lgpd-lib.min.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/globotipo-ui-bold.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\globotipo-ui-bold.woff
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/globotipo-ui-bold.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\globotipo-ui-bold.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/globotipo-ui-regular.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\globotipo-ui-regular.woff
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/globotipo-ui-regular.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\globotipo-ui-regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/globotipo-ui-semibold.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\globotipo-ui-semibold.woff
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/globotipo-ui-semibold.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\globotipo-ui-semibold.woff2
+Content Type: application/octet-stream
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-bold-italic.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-bold-italic.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-bold-italic.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-bold-italic.woff2
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-bold-normal.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-bold-normal.woff2
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-light-italic.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-light-italic.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-light-italic.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-light-italic.woff2
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-light-normal.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-light-normal.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-light-normal.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-light-normal.woff2
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-regular-italic.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-regular-italic.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-regular-italic.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-regular-italic.woff2
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-regular-normal.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-regular-normal.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-regular-normal.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-regular-normal.woff2
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-semibold-italic.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-semibold-italic.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-semibold-italic.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-semibold-italic.woff2
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-semibold-normal.woff
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-semibold-normal.woff
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_b922f1376f6c452e9bb337cc7d996a6e/codex/foundation/typefaces/opensans-semibold-normal.woff2
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_b922f1376f6c452e9bb337cc7d996a6e\codex\foundation\typefaces\opensans-semibold-normal.woff2
+Content Type: font/woff
+
+Uri: https://s3.glbimg.com/v1/AUTH_ba8e460c944543468c3c80cb9675751f/web-components/bs-player/2.9.8/bs-player.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_ba8e460c944543468c3c80cb9675751f\web-components\bs-player\2.9.8\bs-player.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/3ce04467-c041-4750-838d-65b06f76be6f.css
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\3ce04467-c041-4750-838d-65b06f76be6f.css
+Content Type: text/css
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/3ce04467-c041-4750-838d-65b06f76be6f.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\3ce04467-c041-4750-838d-65b06f76be6f.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-lib-media/image-gallery_icon.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-lib-media\image-gallery_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-lib-media/playlist_icon.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-lib-media\playlist_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-lib-media/video_icon.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-lib-media\video_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/climatempo-logo.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\climatempo-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon1.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon11.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon11.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon13.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon13.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon15.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon15.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon1n.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon1n.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon2.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon2n.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon2n.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon2r.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon2r.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon2rn.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon2rn.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon3.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon3n.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon3n.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon4.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon4.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon4n.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon4n.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon4r.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon4r.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon4rn.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon4rn.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon4t.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon4t.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon4tn.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon4tn.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon5.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon5.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon5n.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon5n.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon6.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon6.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon7.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon7.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon7n.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon7n.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon8.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon8.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_c631e406debd4c4fac98a09d48dc17d1/bastian-post/prod/g1/87ffba61-d25d-4497-a81c-dbab44c4b114/img/post-previsao-do-tempo/Icon9.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_c631e406debd4c4fac98a09d48dc17d1\bastian-post\prod\g1\87ffba61-d25d-4497-a81c-dbab44c4b114\img\post-previsao-do-tempo\Icon9.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_e1b09a2d222b4900a437a46914be81e5/api/stable/web/api.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_e1b09a2d222b4900a437a46914be81e5\api\stable\web\api.min.js
+Content Type: application/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/img/economia-imgs/logo_valor_pro.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\img\economia-imgs\logo_valor_pro.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/img/post-baixe-o-app/download-app/v2/download-app.min.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\img\post-baixe-o-app\download-app\v2\download-app.min.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/img/uikit/icons/expand/v1/expand_down.svg
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\img\uikit\icons\expand\v1\expand_down.svg
+Content Type: image/svg+xml
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/player-assets/1.1.0/playerAssets.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\player-assets\1.1.0\playerAssets.min.js
+Content Type: text/javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f75bb4776e3c4683acd769d47144995f/viewport-play-plugin/v1.3.0/viewport-play-plugin.min.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f75bb4776e3c4683acd769d47144995f\viewport-play-plugin\v1.3.0\viewport-play-plugin.min.js
+Content Type: application/x-javascript
+
+Uri: https://s3.glbimg.com/v1/AUTH_f7772c2cb2fd4af2bb8929c0ae6fdba7/dsframework/build/mr_608916/client/bastian-2026095d323e79110e622f31c3fd8be611a3dc.js
+File Name: C:\Downloaded Web Sites\g1.globo.com\v1\AUTH_f7772c2cb2fd4af2bb8929c0ae6fdba7\dsframework\build\mr_608916\client\bastian-2026095d323e79110e622f31c3fd8be611a3dc.js
+Content Type: application/javascript
+
+Uri: https://tpc.googlesyndication.com/simgad/6293525630302544087
+File Name: C:\Downloaded Web Sites\g1.globo.com\simgad\6293525630302544087
+Content Type: image/png
+
